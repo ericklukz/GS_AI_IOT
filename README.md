@@ -5,16 +5,17 @@ Este projeto é dedicado a novos agricultores ou aos que já praticam mas ainda 
 Este projeto foi feito usando algumas bibliotecas conhecidas em Python, e todas seguem o padrão de instalação normal usando o "pip install <nome_do_framework>".
 As bibliotecas usadas foram:
 
-datetime 
+-datetime 
 
-requests
-sys
+-requests
 
-pyttsx3
+-sys
 
-inflect
+-pyttsx3
 
-speech_recognition
+-inflect
 
-flask 
+-speech_recognition
+
+-flask 
 
