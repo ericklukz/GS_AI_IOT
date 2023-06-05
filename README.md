@@ -6,10 +6,15 @@ Este projeto foi feito usando algumas bibliotecas conhecidas em Python, e todas 
 As bibliotecas usadas foram:
 
 datetime 
+
 requests
 sys
+
 pyttsx3
+
 inflect
+
 speech_recognition
+
 flask 
 
